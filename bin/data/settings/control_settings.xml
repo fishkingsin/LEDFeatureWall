@@ -1,0 +1,51 @@
+<INPUT_POSITION>
+    <val_0>73.300003052</val_0>
+    <val_1>158.080001831</val_1>
+</INPUT_POSITION>
+<INPUT_SIZE>
+    <val_0>1202.119995117</val_0>
+    <val_1>205.009994507</val_1>
+</INPUT_SIZE>
+<OUTPUT_POSITION>
+    <val_0>80.629997253</val_0>
+    <val_1>160.549987793</val_1>
+</OUTPUT_POSITION>
+<OUTPUT_SIZE>
+    <val_0>1194.790039062</val_0>
+    <val_1>202.539993286</val_1>
+</OUTPUT_SIZE>
+<DEBUG>
+    <val_0>0.000000000</val_0>
+</DEBUG>
+<INPUT_POSITION_0>
+    <val_0>80.629997253</val_0>
+    <val_1>163.020004272</val_1>
+</INPUT_POSITION_0>
+<INPUT_SIZE_0>
+    <val_0>307.859985352</val_0>
+    <val_1>195.130004883</val_1>
+</INPUT_SIZE_0>
+<INPUT_POSITION_1>
+    <val_0>373.829986572</val_0>
+    <val_1>163.020004272</val_1>
+</INPUT_POSITION_1>
+<INPUT_SIZE_1>
+    <val_0>285.869995117</val_0>
+    <val_1>200.070007324</val_1>
+</INPUT_SIZE_1>
+<INPUT_POSITION_2>
+    <val_0>645.039978027</val_0>
+    <val_1>160.549987793</val_1>
+</INPUT_POSITION_2>
+<INPUT_SIZE_2>
+    <val_0>315.190002441</val_0>
+    <val_1>200.070007324</val_1>
+</INPUT_SIZE_2>
+<INPUT_POSITION_3>
+    <val_0>916.250000000</val_0>
+    <val_1>158.080001831</val_1>
+</INPUT_POSITION_3>
+<INPUT_SIZE_3>
+    <val_0>373.829986572</val_0>
+    <val_1>205.009994507</val_1>
+</INPUT_SIZE_3>
